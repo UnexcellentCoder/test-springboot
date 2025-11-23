@@ -10,4 +10,8 @@ public class testController {
     private Integer getAge(){
         return 25;
     }
+
+    private String getGrade(){
+        return "8年级";
+    }
 }
